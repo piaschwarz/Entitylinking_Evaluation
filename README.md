@@ -14,4 +14,4 @@
 
 `Laffaux	B-loc	O	B-loc.adm.town	O	O	O	Q842559	_	LED0.00	WIKIDATA-Q-ITEM-NOT-FOUND-FOR:http://de.dbpedia.org/resource/Laffaux`
 
-[^1]: Best scores from Team "L3i" from La Rochelle University, La Rochelle, France on the Task End-to-end EL hipe2020 German relaxed @1 (literal sense), https://hipe-eval.github.io/HIPE-2022/results#hipe-2022-track-evaluation-results)
+[^1]: Best scores on the Task End-to-end EL hipe2020 German relaxed @1 (literal sense) from Team "L3i" from La Rochelle University, La Rochelle, France, https://hipe-eval.github.io/HIPE-2022/results#hipe-2022-track-evaluation-results)
