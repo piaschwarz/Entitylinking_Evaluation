@@ -10,7 +10,8 @@
 | HIPE Task 2022 team2[^1] | 0.464 | 0.462 | 0.466 | 535 | 623 | 612 |
 
 - Evaluated using the "fuzzy regime" as in HIPE 2022: counted as TP if token boundaries do not match exactly but entity type (Q-item) is the same
-- DBpedia Spotlight Q-item retrieved through DBpedia-Wikidata interlinking, in 33 cases a DBpedia entity was found but no corresponding Q-item was interlinked, e.g.
+- DBpedia Spotlight Q-item retrieved through DBpedia-Wikidata interlinking, in 33 cases a DBpedia entity was found but no corresponding Q-item was interlinked, e.g.:
+
 `Laffaux	B-loc	O	B-loc.adm.town	O	O	O	Q842559	_	LED0.00	WIKIDATA-Q-ITEM-NOT-FOUND-FOR:http://de.dbpedia.org/resource/Laffaux`
 
 [^1]: Best scores from Team "L3i" from La Rochelle University, La Rochelle, France on the Task End-to-end EL hipe2020 German relaxed @1 (literal sense), https://hipe-eval.github.io/HIPE-2022/results#hipe-2022-track-evaluation-results)
